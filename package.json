@@ -1,0 +1,14 @@
+{
+  "name": "web-development-main",
+  "version": "1.0.0",
+  "scripts": {
+    "div": "echo \"This is the div script\""
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "dependencies": {
+
+  }
+}
+
